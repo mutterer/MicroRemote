@@ -4,7 +4,7 @@
 MicroRemote is a Plugin for MicroManager(1.4.19 or higher) with which you can control MicroManager through different controlling devices. In the near future MicroRemote will be easy to extend for new controller devices, yet at the moment it is only controllable via an Android app, and via a self built setup with an Arduino Uno board.
 
 ##How do I use it?
-All Instructions on MicroRemote can be found [here](mutterer.org/imaging)
+All Instructions on MicroRemote can be found [here](http://mutterer.org/imaging)
 
 
 ------
